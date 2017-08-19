@@ -1,5 +1,7 @@
 # iterator-deprecated
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chasenlehara/iterator-deprecated.svg)](https://greenkeeper.io/)
+
 Welcome to the iterator-deprecated DoneJS application!
 
 ## Getting started
